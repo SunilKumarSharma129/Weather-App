@@ -8,3 +8,7 @@ Check your city’s current weather-temperature, and sky conditions right from t
 ## Tech Stack
 
 HTML, CSS, JavaScript
+
+## Authors
+
+- [@SunilKumarSharma129](https://github.com/SunilKumarSharma129)
